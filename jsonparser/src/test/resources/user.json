@@ -1,0 +1,11 @@
+{
+  "user_id" : "user_1",
+  "firstName" : "Dante",
+  "lastName" : "Alighieri",
+  "address" : {
+    "City" : "Toronto",
+    "Country" : "Canada",
+    "Street" : "Younge st"
+  },
+  "gender" : "male"
+}
